@@ -1,2 +1,2 @@
 # codeSnippets
-Code Snippets that can be utilized throughout multiple programs (algorithms)
+Algorithms that can be utilized throughout multiple programs
